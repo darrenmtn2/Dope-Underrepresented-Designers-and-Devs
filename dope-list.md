@@ -66,6 +66,7 @@
   * [Tess Rinearson][66]
   * [Nelleke van der Maas][67]
   * [Kelli Anderson][68]
+  * [Val Head][69]
 
    [1]: https://twitter.com/lemonheadd
    [2]: http://byalicelee.com/
@@ -135,3 +136,4 @@
    [66]: http://tes.sr/
    [67]: http://www.designedbynelleke.com/
    [68]: http://kellianderson.com/
+   [69]: http://valhead.com
