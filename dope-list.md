@@ -67,6 +67,7 @@
   * [Nelleke van der Maas][67]
   * [Kelli Anderson][68]
   * [Val Head][69]
+  * [Sara Chipps][70]
 
    [1]: https://twitter.com/lemonheadd
    [2]: http://byalicelee.com/
@@ -137,3 +138,4 @@
    [67]: http://www.designedbynelleke.com/
    [68]: http://kellianderson.com/
    [69]: http://valhead.com
+   [70]: http://sarahjchipps.com
