@@ -1,0 +1,1 @@
+Compiled from comments on Patrick Johnson’s [Designer News thread](https://news.layervault.com/stories/14684-dope-female-designers--developers) because intersectionality is key. Feel free to add yourself + your awesome peers!
