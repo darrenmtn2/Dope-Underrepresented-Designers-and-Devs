@@ -68,6 +68,9 @@
   * [Kelli Anderson][68]
   * [Val Head][69]
   * [Sara Chipps][70]
+  * [Jenny Messerly][71]
+  * [Jenny Poon][72]
+  * [Amy Lamp][73]
 
    [1]: https://twitter.com/lemonheadd
    [2]: http://byalicelee.com/
@@ -139,3 +142,6 @@
    [68]: http://kellianderson.com/
    [69]: http://valhead.com
    [70]: http://sarajchipps.com
+   [71]: http://pixelfarmers.com/
+   [72]: http://www.eekostudio.com/
+   [73]: http://forty.co/company/amy-lamp
