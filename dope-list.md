@@ -138,4 +138,4 @@
    [67]: http://www.designedbynelleke.com/
    [68]: http://kellianderson.com/
    [69]: http://valhead.com
-   [70]: http://sarahjchipps.com
+   [70]: http://sarajchipps.com
