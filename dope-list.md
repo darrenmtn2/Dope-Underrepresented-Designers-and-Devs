@@ -71,6 +71,7 @@
   * [Jenny Messerly][71]
   * [Jenny Poon][72]
   * [Amy Lamp][73]
+  * [Vic Bell][74]
 
    [1]: https://twitter.com/lemonheadd
    [2]: http://byalicelee.com/
@@ -145,3 +146,4 @@
    [71]: http://pixelfarmers.com/
    [72]: http://www.eekostudio.com/
    [73]: http://forty.co/company/amy-lamp
+   [74]: http://vicbell.co.uk
